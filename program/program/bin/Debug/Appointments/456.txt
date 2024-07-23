@@ -1,0 +1,14 @@
+
+Appointment Receipt:
+--------------------
+Appointment Day:  tuesday
+Appointment For:  Prof. Sohail Akhter
+Appointment Number:  123
+Patient's Name:  Junaid
+Patient's Age:  25
+Patient's Phone number:  0987
+Patient's CNIC:  456
+Your charges:  2500Rs
+Date & Time:  5/17/2022 11:05:30 PM
+::::
+

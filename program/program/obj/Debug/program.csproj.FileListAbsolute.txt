@@ -1,0 +1,8 @@
+C:\Users\user\Desktop\project pf\program\program\bin\Debug\program.exe.config
+C:\Users\user\Desktop\project pf\program\program\bin\Debug\program.exe
+C:\Users\user\Desktop\project pf\program\program\bin\Debug\program.pdb
+C:\Users\user\Desktop\project pf\program\program\obj\Debug\program.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\project pf\program\program\obj\Debug\program.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\project pf\program\program\obj\Debug\program.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\project pf\program\program\obj\Debug\program.exe
+C:\Users\user\Desktop\project pf\program\program\obj\Debug\program.pdb

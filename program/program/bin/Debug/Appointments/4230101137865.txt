@@ -1,0 +1,14 @@
+
+Appointment Receipt:
+--------------------
+Appointment Day:  monday
+Appointment For:  Dr. Mushtaq Ahmed
+Appointment Number:  13
+Patient's Name:  umer
+Patient's Age:  21
+Patient's Phone number:  03400838781
+Patient's CNIC:  4230101137865
+Your charges:  1000Rs
+Date & Time:  5/17/2022 9:16:16 AM
+::::
+

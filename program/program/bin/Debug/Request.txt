@@ -1,0 +1,36 @@
+
+
+					
+					Blood Acceptor Receipt:
+					Name:rao
+					Medical ID:14593
+					Blood Group:A-
+					No of Blood:5
+					Acceptor Phone number:03400838781
+					Acceptor E-mail Address:abc
+					Your charges:20000
+					Date & Time:5/15/2022 7:15:55 PM
+					::::
+
+
+					Blood Acceptor Receipt:
+					Name:rayyan
+					Medical ID:12
+					Blood Group:o+
+					No of Blood:3
+					Acceptor Phone number:678
+					Acceptor E-mail Address:esfsf@gmail.com
+					Your charges:12000
+					Date & Time:5/18/2022 3:10:31 AM
+					::::
+
+					Blood Acceptor Receipt:
+					Name:khubaib
+					Medical ID:32
+					Blood Group:o+
+					No of Blood:3
+					Acceptor Phone number:64657
+					Acceptor E-mail Address:hgf
+					Your charges:12000
+					Date & Time:5/22/2022 7:13:20 AM
+					::::

@@ -1,0 +1,14 @@
+
+Appointment Receipt:
+--------------------
+Appointment Day:  monday
+Appointment For:  Dr. Shahid Rasool
+Appointment Number:  13
+Patient's Name:  bla
+Patient's Age:  19
+Patient's Phone number:  23424
+Patient's CNIC:  765
+Your charges:  1000Rs
+Date & Time:  5/18/2022 12:01:29 AM
+::::
+

@@ -1,0 +1,14 @@
+
+Appointment Receipt:
+--------------------
+Appointment Day:  monday
+Appointment For:  Dr. Rao Muhammad Naeem
+Appointment Number:  124
+Patient's Name:  ra fahim
+Patient's Age:  20
+Patient's Phone number:  N/A
+Patient's CNIC:  12345
+Your charges:  400Rs
+Date & Time:  5/17/2022 12:09:10 PM
+::::
+

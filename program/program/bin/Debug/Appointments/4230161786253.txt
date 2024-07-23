@@ -1,0 +1,14 @@
+
+Appointment Receipt:
+--------------------
+Appointment Day:  Monday
+Appointment For:  Prof. Sohail Akhter
+Appointment Number:  1
+Patient's Name:  Rao Fahim
+Patient's Age:  27
+Patient's Phone number:  03337309969
+Patient's CNIC:  4230161786253
+Your charges:  2500Rs
+Date & Time:  5/17/2022 12:32:54 AM
+::::
+

@@ -1,0 +1,182 @@
+
+Appointment Receipt:
+--------------------
+Appointment Day:  Monday
+Appointment For:  Prof. Sohail Akhter
+Appointment Number:  1
+Patient's Name:  Rao Fahim
+Patient's Age:  27
+Patient's Phone number:  03337309969
+Patient's CNIC:  4230161786253
+Your charges:  2500Rs
+Date & Time:  5/17/2022 12:32:54 AM
+::::
+
+
+Appointment Receipt:
+--------------------
+Appointment Day:  tuesday
+Appointment For:  Dr. Umer Ibrahim
+Appointment Number:  3
+Patient's Name:  rao umer
+Patient's Age:  20
+Patient's Phone number:  03337309969
+Patient's CNIC:  4230101137869
+Your charges:  600Rs
+Date & Time:  5/17/2022 1:15:10 AM
+::::
+
+
+Appointment Receipt:
+--------------------
+Appointment Day:  monday
+Appointment For:  Dr. Mushtaq Ahmed
+Appointment Number:  1
+Patient's Name:  abc
+Patient's Age:  12
+Patient's Phone number:  03213897308
+Patient's CNIC:  4230101137865
+Your charges:  1000Rs
+Date & Time:  5/17/2022 1:24:38 AM
+::::
+
+
+Appointment Receipt:
+--------------------
+Appointment Day:  tuesday
+Appointment For:  Prof. Sohail Akhter
+Appointment Number:  12
+Patient's Name:  rao
+Patient's Age:  20
+Patient's Phone number:  03400838781
+Patient's CNIC:  4230155
+Your charges:  2500Rs
+Date & Time:  5/17/2022 8:42:57 AM
+::::
+
+
+Appointment Receipt:
+--------------------
+Appointment Day:  monday
+Appointment For:  Dr. Mushtaq Ahmed
+Appointment Number:  13
+Patient's Name:  umer
+Patient's Age:  21
+Patient's Phone number:  03400838781
+Patient's CNIC:  4230101137865
+Your charges:  1000Rs
+Date & Time:  5/17/2022 9:16:16 AM
+::::
+
+
+Appointment Receipt:
+--------------------
+Appointment Day:  monday
+Appointment For:  Dr. Rao Muhammad Naeem
+Appointment Number:  123
+Patient's Name:  abdullah
+Patient's Age:  19\
+Patient's Phone number:  233
+Patient's CNIC:  2333
+Your charges:  400Rs
+Date & Time:  5/17/2022 9:28:55 AM
+::::
+
+
+Appointment Receipt:
+--------------------
+Appointment Day:  monday
+Appointment For:  Dr. Rao Muhammad Naeem
+Appointment Number:  124
+Patient's Name:  ra fahim
+Patient's Age:  20
+Patient's Phone number:  N/A
+Patient's CNIC:  12345
+Your charges:  400Rs
+Date & Time:  5/17/2022 12:09:10 PM
+::::
+
+
+Appointment Receipt:
+--------------------
+Appointment Day:  friday
+Appointment For:  Dr. Munawwar Hayat Ahmed
+Appointment Number:  1
+Patient's Name:  rayyan
+Patient's Age:  19
+Patient's Phone number:  0202
+Patient's CNIC:  123
+Your charges:  900Rs
+Date & Time:  5/17/2022 8:28:30 AM
+::::
+
+
+Appointment Receipt:
+--------------------
+Appointment Day:  tuesday
+Appointment For:  Prof. Sohail Akhter
+Appointment Number:  123
+Patient's Name:  Junaid
+Patient's Age:  25
+Patient's Phone number:  0987
+Patient's CNIC:  456
+Your charges:  2500Rs
+Date & Time:  5/17/2022 11:05:30 PM
+::::
+
+
+Appointment Receipt:
+--------------------
+Appointment Day:  monday
+Appointment For:  Dr. Shahid Rasool
+Appointment Number:  13
+Patient's Name:  bla
+Patient's Age:  19
+Patient's Phone number:  23424
+Patient's CNIC:  765
+Your charges:  1000Rs
+Date & Time:  5/18/2022 12:01:29 AM
+::::
+
+
+Appointment Receipt:
+--------------------
+Appointment Day:  monday
+Appointment For:  Dr. Shahid Rasool
+Appointment Number:  12
+Patient's Name:  ahmar
+Patient's Age:  19
+Patient's Phone number:  7263872
+Patient's CNIC:  345
+Your charges:  1000Rs
+Date & Time:  5/18/2022 3:05:45 AM
+::::
+
+
+Appointment Receipt:
+--------------------
+Appointment Day:  friday
+Appointment For:  Dr. Munawwar Hayat Ahmed
+Appointment Number:  56
+Patient's Name:  rayyan
+Patient's Age:  56
+Patient's Phone number:  58765
+Patient's CNIC:  00
+Your charges:  900Rs
+Date & Time:  5/18/2022 8:37:43 AM
+::::
+
+
+Appointment Receipt:
+--------------------
+Appointment Day:  friday
+Appointment For:  Dr. Rayyan Iyer
+Appointment Number:  45
+Patient's Name:  khubaib
+Patient's Age:  18
+Patient's Phone number:  03322547640
+Patient's CNIC:  345
+Your charges:  800Rs
+Date & Time:  5/22/2022 7:09:34 AM
+::::
+

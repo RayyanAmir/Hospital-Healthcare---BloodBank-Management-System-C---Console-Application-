@@ -1,0 +1,14 @@
+
+Appointment Receipt:
+--------------------
+Appointment Day:  tuesday
+Appointment For:  Dr. Umer Ibrahim
+Appointment Number:  3
+Patient's Name:  rao umer
+Patient's Age:  20
+Patient's Phone number:  03337309969
+Patient's CNIC:  4230101137869
+Your charges:  600Rs
+Date & Time:  5/17/2022 1:15:10 AM
+::::
+

@@ -1,0 +1,6 @@
+E:\PAF-KIET\PF\Project\Project\bin\Debug\Project.exe.config
+E:\PAF-KIET\PF\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+E:\PAF-KIET\PF\Project\Project\bin\Debug\Project.exe
+E:\PAF-KIET\PF\Project\Project\bin\Debug\Project.pdb
+E:\PAF-KIET\PF\Project\Project\obj\Debug\Project.exe
+E:\PAF-KIET\PF\Project\Project\obj\Debug\Project.pdb

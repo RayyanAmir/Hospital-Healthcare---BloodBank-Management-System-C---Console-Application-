@@ -1,0 +1,46 @@
+
+
+					
+					Blood Donor Receipt:
+					Name:umerr
+					Medical ID:14593
+					Blood Group:a-
+					No of Blood:1
+					Your Age:21
+					Donor Phone number:0345838682
+					Donor E-mail Address:raoumer8666@gmail.com
+					Date & Time:5/17/2022 9:25:08 AM
+						::::
+
+					Blood Donor Receipt:
+					Name:rayyan
+					Medical ID:12
+					Blood Group:o+
+					No of Blood:1
+					Your Age:20
+					Donor Phone number:12398
+					Donor E-mail Address:rayan@gmail.com
+					Date & Time:5/17/2022 8:30:19 AM
+						::::
+
+					Blood Donor Receipt:
+					Name:azam
+					Medical ID:12
+					Blood Group:o+
+					No of Blood:1
+					Your Age:25
+					Donor Phone number:3456
+					Donor E-mail Address:adf@gmail.com
+					Date & Time:5/18/2022 3:08:42 AM
+						::::
+
+					Blood Donor Receipt:
+					Name:xfughdr
+					Medical ID:54r
+					Blood Group:o-
+					No of Blood:5
+					Your Age:22
+					Donor Phone number:56667
+					Donor E-mail Address:feuihfsdjfn
+					Date & Time:5/22/2022 7:12:18 AM
+						::::

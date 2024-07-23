@@ -1,0 +1,14 @@
+
+Appointment Receipt:
+--------------------
+Appointment Day:  friday
+Appointment For:  Dr. Rayyan Iyer
+Appointment Number:  45
+Patient's Name:  khubaib
+Patient's Age:  18
+Patient's Phone number:  03322547640
+Patient's CNIC:  345
+Your charges:  800Rs
+Date & Time:  5/22/2022 7:09:34 AM
+::::
+

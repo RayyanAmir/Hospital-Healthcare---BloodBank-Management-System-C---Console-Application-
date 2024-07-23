@@ -1,0 +1,14 @@
+
+Appointment Receipt:
+--------------------
+Appointment Day:  tuesday
+Appointment For:  Prof. Sohail Akhter
+Appointment Number:  12
+Patient's Name:  rao
+Patient's Age:  20
+Patient's Phone number:  03400838781
+Patient's CNIC:  4230155
+Your charges:  2500Rs
+Date & Time:  5/17/2022 8:42:57 AM
+::::
+

@@ -1,0 +1,14 @@
+
+Appointment Receipt:
+--------------------
+Appointment Day:  friday
+Appointment For:  Dr. Munawwar Hayat Ahmed
+Appointment Number:  1
+Patient's Name:  rayyan
+Patient's Age:  19
+Patient's Phone number:  0202
+Patient's CNIC:  123
+Your charges:  900Rs
+Date & Time:  5/17/2022 8:28:30 AM
+::::
+
